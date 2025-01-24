@@ -7,7 +7,7 @@
 ### 2.	INTRODUCTION TO R PROGRAMMING
     •	Data types, vectors, inbuilt functions, user-defined functions, operators, loops, conditional statements.
     •	R language code
-    https://github.com/Balaji053/Financial-Analytics/tree/main
+        https://github.com/Balaji053/Financial-Analytics/tree/main
 ### 3.	DATA CLEANING
     •	Data cleaning operations
     •	Working with factor variables
